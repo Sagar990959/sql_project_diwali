@@ -1,1 +1,1 @@
-# sql_project_diwali
+# sql_diwali_sales_project
